@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Caio!
 
+![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas.  
 🚀 Atualmente estudando **Java, Spring Boot, Frontend e Banco de Dados**.  
 📚 Amante de projetos open source e compartilhamento de conhecimento.  
@@ -25,13 +27,21 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=caiomccunha&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomccunha&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiomccunha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomccunha&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=caiomccunha&theme=radical)
 
 ---
 
-## 🐍 Minhas contribuições
-![Snake animation](https://github.com/caiomccunha/caiomccunha/blob/output/snake.svg)
+## 🐍 Minha atividade
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=caiomccunha&theme=react-dark)
+
+---
+
+## 🌟 Projetos recentes
+- [Projeto 1](https://github.com/caiomccunha/projeto1) - Descrição breve do projeto
+- [Projeto 2](https://github.com/caiomccunha/projeto2) - Descrição breve do projeto
+- [Projeto 3](https://github.com/caiomccunha/projeto3) - Descrição breve do projeto
 
 ---
 
