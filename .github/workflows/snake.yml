@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # gera automaticamente a cada 12 horas
+  schedule: # roda automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch: # permite rodar manualmente
   push:
@@ -11,20 +11,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
 
+    steps:
+      # 1️⃣ Faz checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Gera a animação da cobrinha
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: caiomccunha
-          outputs: dist/snake.svg
+          output: snake.svg
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 3️⃣ Commit e push da cobrinha para a branch 'output'
+      - name: Push Snake to output branch
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Update snake animation"
+          add: "snake.svg"
+          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
