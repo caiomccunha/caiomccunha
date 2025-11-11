@@ -35,8 +35,7 @@
 
 ## 🌟 Projetos recentes
 - [Apoia Rural](https://github.com/caiomccunha/ApoiaRural-Completo) - Projeto de TCC da instituição Senai CTTI, focado em atingir os agricultores oriundos da agricultura familiar
-- [Gestão Escolar](https://github.com/caiomccunha/Gest-o-Escolar) - Projeto de um sistema de gestão escolar, visando aumentar meu portifólio pessoal em java
-- [Projeto 3](https://github.com/caiomccunha/projeto3) - Descrição breve do projeto
+- [Senai](https://github.com/caiomccunha/Atividades-Senai) - Repositório que armazena as atividades feitas por mim durante meu período no curso.
 
 ---
 
