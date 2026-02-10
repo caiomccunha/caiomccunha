@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Caio!
 
-![Loading GIF](https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif)
+![Loading GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHZ1cGxpMzhwZHJhMWZzZW4zN2ptcnk5cWsxYTNoYnVhZG80czF6dyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif)
 
 💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas.  
 🚀 Atualmente estudando **Java, Spring Boot, Frontend e Banco de Dados**.  
