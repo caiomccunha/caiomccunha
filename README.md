@@ -36,7 +36,7 @@
 ## 🌟 Projetos recentes
 - [Apoia Rural](https://github.com/caiomccunha/ApoiaRural-Completo) - Projeto de TCC da instituição Senai CTTI, focado em atingir os agricultores oriundos da agricultura familiar
 - [Senai](https://github.com/caiomccunha/Atividades-Senai) - Repositório que armazena as atividades feitas por mim durante meu período no curso.
-
+- [Library](https://github.com/caiomccunha/Library) - Projeto feito para aprimorar meus conhecimentos no framework SpringBoot e aprimorar meus conhecimentos em backend java, adicionando validaçõe e tratando a entrada e a saída de dados do sistema.
 ---
 
 ✨ _"A tecnologia move o mundo."_ – Steve Jobs
